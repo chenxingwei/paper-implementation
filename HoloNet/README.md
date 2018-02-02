@@ -24,7 +24,7 @@ LBP compares the gray level value of the around 8 pixels to the center pixel, if
 
 Similar to LBP, but the around 8 pixels do compare to the mean value of these 8 pixels instead. 
 
-![](https://github.com/chenxingwei/paper-implementation/blob/master/HoloNet/images/mlbp.png)
+![](https://github.com/chenxingwei/paper-implementation/blob/master/HoloNet/images/mlmp.png)
 
 ### 3. Scripts
 
