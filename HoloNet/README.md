@@ -16,7 +16,7 @@ In this repository, I am trying to implement HoloNet, proposed in "HolotNet: Tow
 
 LBP calculates the local feature, following comes the basic LBP feature extraction example. 
 
-![]()
+![](https://github.com/chenxingwei/paper-implementation/blob/master/HoloNet/images/lbp.png)
 
 LBP compares the gray level value of the around 8 pixels to the center pixel, if the outer pixel is larger than the center pixel, set 1, otherwise, set 0. Then the binary string with length 8 could be transformed to 0-255 value, regarding as the LBP feature.
 
@@ -24,7 +24,7 @@ LBP compares the gray level value of the around 8 pixels to the center pixel, if
 
 Similar to LBP, but the around 8 pixels do compare to the mean value of these 8 pixels instead. 
 
-![]()
+![](https://github.com/chenxingwei/paper-implementation/blob/master/HoloNet/images/mlbp.png)
 
 ### 3. Scripts
 
