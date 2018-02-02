@@ -30,6 +30,11 @@ Similar to LBP, but the around 8 pixels do compare to the mean value of these 8 
 
 holonet_util.py: contains basic functions including LBP and mLBP feature extraction, FER2013 data reading, feature calculating and normalization.
 
-holoNet_train.py: contains the train example for FER2013 datasets
+holoNet_train.py: contains the train example for FER2013 datasets with HoloNet
+
+1.storeFerH5py.py: Pre-processing, store the training images, corresponding labels, validation images, corresponding labels, test images and corresponding images into h5py format for further fast use.
+
+
+## About
 
 
