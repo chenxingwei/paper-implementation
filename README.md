@@ -4,7 +4,7 @@ This repository will contain algorithms and codes for famous published papers.
 
 ## Indexes
 
-1. [HoloNet](https://github.com/chenxingwei/paper-implementation/blob/master/HoloNet/README.md)
+1. [HoloNet](https://github.com/chenxingwei/paper-implementation/tree/master/HoloNet)
 
 2. To be updated
 
