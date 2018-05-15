@@ -10,8 +10,8 @@ implementated similar to the structure proposed in "Deep region and multi-label 
 
 ## Files:
 
-aumpnet.py: network structure of AUMPNet.
+[aumpnet.py](https://github.com/chenxingwei/paper-implementation/blob/master/AUMPNet/aumpnet.py): network structure of AUMPNet.
 
-model_utils.py:
+[model_utils.py](https://github.com/chenxingwei/paper-implementation/blob/master/AUMPNet/model_utils.py): Frequently used functions
   
-regionConv.py:
+[regionConv.py](https://github.com/chenxingwei/paper-implementation/blob/master/AUMPNet/regionConv.py): Tensorflow implementated local region convolution layers.
